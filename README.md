@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anamikavoid/40-days-of-leetcode-challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anamikavoid/40-days-of-leetcode-challenge/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anamikavoid/40-days-of-leetcode-challenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
